@@ -1,0 +1,28 @@
+{
+  "name": "mango-money",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "test": "node --test tests/*.test.js",
+    "preview": "vite preview --host 0.0.0.0",
+    "prebuild": "node scripts/restore-assets.mjs",
+    "predev": "node scripts/restore-assets.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.119.0",
+    "lucide-react": "0.468.0",
+    "pdfjs-dist": "5.4.624",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.15",
+    "vite": "7.2.2"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
