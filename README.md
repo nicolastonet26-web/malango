@@ -1,6 +1,6 @@
 # Mango Money
 
-Aplicação React/Vite para finanças do casal. O código ainda não foi publicado no GitHub ou em produção.
+Aplicação React/Vite para finanças do casal. Código versionado neste repositório. A publicação em produção está pendente.
 
 ## Executar
 
@@ -26,4 +26,4 @@ Cursos e perguntas foram preservados do projeto Floot. O progresso existente per
 
 ## Pendências de publicação
 
-Autorizar escrita da integração GitHub no repositório nicolastonet26-web/malango; projeto Supabase jtspfjufvptxcdqmbpje criado em sa-east-1 e SQL aplicado; configurar URLs do Auth; publicar Render e validar os fluxos em dois aparelhos. Importação do histórico/XP antigo e revisão visual completa ainda pendentes.
+projeto Supabase jtspfjufvptxcdqmbpje criado em sa-east-1 e SQL aplicado; configurar URLs do Auth; O Render recusou a criação da hospedagem com HTTP 402, solicitando cartão cadastrado. Após resolver essa exigência, publicar e validar os fluxos em dois aparelhos. Importação do histórico/XP antigo e revisão visual completa ainda pendentes.
