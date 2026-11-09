@@ -1,1 +1,1 @@
-{"name":"Mango Money","short_name":"Mango","start_url":"/","display":"standalone","background_color":"#f5f8fc","theme_color":"#f5f8fc","icons":[{"src":"/assets/icon-512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"Mango Money","short_name":"Mango","start_url":"/","display":"standalone","background_color":"#f5f8fc","theme_color":"#f5f8fc","icons":[{"src":"/assets/mango.svg","sizes":"any","type":"image/svg+xml"}]}
